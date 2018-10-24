@@ -1,0 +1,27 @@
+1.5 billion words Arabic Corpus:
+
+5 millions news paper artciles
+3 millions unique words 
+free
+
+
+
+Questions:
+1. Should I get in touch with the author of 1.5 billion words and request the data? He states in his paper that it is free. We also have his email address: iabuelkhair@gmail.com . He is Egyptian at Minia University.
+2. In their corpus they said that: Egypt and Saudi Arabia are represented with two newspa- pers each, since they are the pioneers in online journalism, and have some of the oldest online newspapers in the Arab world.
+3. The author also said: The main purpose for creating this corpus, is to have a free tool for Arabic language available for researcher.
+4.  Politics, litera- ture, arts, technology, sports, economy, culture, and many other subject matters
+5.  It covers a period of 14 years and 8 countries
+2. There is also another free corpus called King Abdulaziz City for Science and Technology  KACST corpus
+3. Link for download: http://abuelkhair.net/index.php/en/
+4. He also has a list of stop words for Arabic
+5. There are also existing Arabic Word Vectors: https://github.com/bakrianoo/aravec The first version of AraVec provides six different word embedding models built on top of three different Arabic content domains; Tweets, World Wide Web pages and Wikipedia Arabic articles.
+6. I found 
+
+
+1. Download the corpora
+2. draw a small sample on my machine 
+3. check the validity of the claims
+4. dates 
+5. anything but friday
+6. 

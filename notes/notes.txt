@@ -1,0 +1,21 @@
+Men score higher on Career
+While women score higher on Family
+
+Inscets are more pleasant than flowers
+
+Extraversion is more useful than intraversion
+
+Men are better, more potent and active than women
+
+Using several words instead of just one leads to better results. 
+How can we prove this?
+
+
+Attribute words and Target words. A test should contain both.
+
+look into word net for synoyms 
+look how word embeddings are calculated
+for a text corpus 
+news websites for Arabic 
+
+

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/Soli/Desktop/Semantic Differential/log/model.ckpt"
+all_model_checkpoint_paths: "/Users/Soli/Desktop/Semantic Differential/log/model.ckpt"
